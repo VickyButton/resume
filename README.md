@@ -6,7 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/vicky-button-42a947201/)
 ### 🌟 Skills
 - **Programming languages:** TypeScript, JavaScript, C#
-- **Frontend frameworks:** Vue, Nuxt, React
+- **Frontend frameworks:** Vue, Nuxt, React, Tailwind CSS
 - **Backend frameworks:** .NET, Express, H3
 - **Testing:** Vitest, xUnit
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
@@ -19,7 +19,7 @@
   - Wrote unit tests in Vitest and xUnit, greatly increasing test coverage across repositories.
   - Modernized the frontend codebase:
     - Converted Vue components from Options API to Composition API.
-    - Migrated from TailwindCSS v3 to v4.
+    - Migrated from Tailwind CSS v3 to v4.
 - **Web Developer** | Freelance | Oct 2022 - Jan 2025
 	- Worked directly with clients to design, develop, and maintain full-stack applications long-term.
 	- Integrated with Stripe to enable online purchases.
