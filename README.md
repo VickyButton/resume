@@ -28,7 +28,7 @@
 	- Developed internal tooling for triaging bug reports utilizing ServiceNow and internal APIs.
 	- Resolved bug reports by analyzing logs in DataDog and identifying bugs in the codebase.
 
-### 🏆 Accomplishments
+### 💾 Projects
 - [DeepSea](https://github.com/VickyButton/deep-sea), a browser-based game engine built using TypeScript and no third-party libraries.
 - [C2 UI](https://github.com/VickyButton/c2-ui), a simple web-based command-and-control interface for drones and other devices.
 - [Party Time](https://github.com/VickyButton/party-time), a simple API for creating events and accepting RSVPs.
