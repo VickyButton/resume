@@ -17,9 +17,8 @@
     - Architected and implemented a centralized design system for use across applications.
   - Collaborated with UX designers and product managers to refine and implement user-facing features.
   - Wrote unit tests in Vitest and xUnit, greatly increasing test coverage across repositories.
-  - Modernized the frontend codebase:
-    - Converted Vue components from Options API to Composition API.
-    - Migrated from Tailwind CSS v3 to v4.
+  - Converted Vue components from Options API to Composition API.
+  - Migrated from Tailwind CSS v3 to v4.
 - **Web Developer** | Freelance | Oct 2022 - Jan 2025
 	- Worked directly with clients to design, develop, and maintain full-stack applications long-term.
 	- Integrated with Stripe to enable online purchases.
