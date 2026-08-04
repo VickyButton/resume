@@ -5,7 +5,7 @@
 - [GitHub](github.com/VickyButton)
 - [LinkedIn](https://www.linkedin.com/in/vicky-button-42a947201/)
 ### 🌟 Skills
-- **Programming languages:** TypeScript, JavaScript, C#
+- **Programming languages:** TypeScript, JavaScript, HTML, CSS, C#
 - **Frontend frameworks:** Vue, Nuxt, React, Tailwind CSS
 - **Backend frameworks:** .NET, Express, H3
 - **Testing:** Vitest, xUnit
