@@ -3,7 +3,7 @@
 - vickybutton@proton.me
 - (727) 277-1742
 - [GitHub](github.com/VickyButton)
-- [LinkedIn](https://www.linkedin.com/in/vicky-button-42a947201/)
+- [LinkedIn](https://www.linkedin.com/in/vicky-button/)
 ### 🌟 Skills
 - **Programming languages:** TypeScript, JavaScript, HTML, CSS, C#
 - **Frontend frameworks:** Vue, Nuxt, React, Tailwind CSS
